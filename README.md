@@ -33,6 +33,6 @@
 
 - Definitions
 - Go to line
-- Makrdown
+- Markdown
 - Replace definitions
 - Snippets
