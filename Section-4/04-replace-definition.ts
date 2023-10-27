@@ -9,12 +9,12 @@
 //*         F2
 //* 
 
-import { Hero } from "./01-definitions";
+import { SuperHero } from "./01-definitions";
 
 
-const wolverine = new Hero();
-const ironman   = new Hero();
-const spiderman = new Hero();
+const wolverine = new SuperHero();
+const ironman   = new SuperHero();
+const spiderman = new SuperHero();
 
 function greet() {
   return 'El SuperHero Wolverine es genial!';

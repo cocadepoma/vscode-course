@@ -16,6 +16,8 @@
   
 * [Auto close tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
   
+* Settings linked editing
+  
 ## Useful
 
 * [Termimal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
